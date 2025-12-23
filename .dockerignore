@@ -1,0 +1,47 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+.eggs/
+*.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+*.ipynb_checkpoints
+*.ipynb
+
+# Build artifacts
+build/
+dist/
+node_modules/
+
+# Documentation (keep README for reference)
+*.md
+!README.md
+
+# Legacy files
+webapp.py
+functions.py
+patterns.py
+Stock-market-prediction-and-screener/
+media/
